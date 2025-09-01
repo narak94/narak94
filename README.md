@@ -22,7 +22,7 @@
   <img align="center" alt="Luc-N8N" height="50" width="131" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/n8n-logo-brandlogos.net_k6nah3kef.svg">
   <img align="center" alt="Luc-OP" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/chatgpt-logo-brandlogos.net_6btf8edqn.svg">
   <img align="center" alt="Luc-365" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/microsoft-365-copilot-logo-brandlogos.net_78lfgdevk.svg">
-  <img align="right" alt-"Luc-fig" src-"https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/VIDEO%201.gif">
+  <img align="right" alt-"Luc-fig" src-"https://imgur.com/a/izvcUSo">
 </div>
 
 
