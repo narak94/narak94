@@ -1,6 +1,6 @@
 ## Hello There, eu sou o Lucas! 👋
 - ✅ **Consultor de Processos/Negócios**
-- 👨🏼‍💻 **Atualmente Trabalhando com:** Automação de Processos Procedurais Corporativos em Fluxos de trabalho Reais. 
+- 👨🏼‍💻 **Atualmente Trabalhando com:** Automação de Fluxos Procedurais Corporativos em Fluxos de trabalho Reais. 
 - 🌱 **Estudando:** | **IaaS** | **LLm´s** | **N8N** |**Gestão de Processos e Ambientes de Trabalho** | 
 - 📫 **Contato:** lucasweber94@outlook.com
 - ⚡ Quote: Me de um ponto de Apoio🪑+💻, que automatizarei o mundo. 
