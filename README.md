@@ -22,7 +22,6 @@
   <img align="center" alt="Luc-N8N" height="50" width="131" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/n8n-logo-brandlogos.net_k6nah3kef.svg">
   <img align="center" alt="Luc-OP" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/chatgpt-logo-brandlogos.net_6btf8edqn.svg">
   <img align="center" alt="Luc-365" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/microsoft-365-copilot-logo-brandlogos.net_78lfgdevk.svg">
-  <img align="right" alt-"Luc-fig" src-"https://imgur.com/a/izvcUSo">
 </div>
 
 
@@ -43,16 +42,16 @@
   </a>
 
   <a href="https://www.linkedin.com/in/lucas-weber-366270108/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" height="40">
+    <img src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/VIDEO%201-1.gif" width="150" height="40">
   </a>
 </div>
 
 
 
  
-
-
-
+<div style="display: inline_block; margin-bottom:60px;"><br>
+ <img align="center" alt="Luc-Python" height="400 " width="400" src="https://imgur.com/a/izvcUSo">
+</div>
 
 
 
