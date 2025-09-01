@@ -5,12 +5,15 @@
 - 📫 Contato: lucasweber94@outlook.com
 - ⚡ Quote: Me de um ponto de Apoio🪑+💻, que automatizarei o mundo. 
 
-<div style="margin-bottom:30px;">
-<a href="https://beacons.ai/narak94">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=narak94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narak94&layout=compact&langs_count=16&theme=dracula"/>
-</a>
+
+<div style="display:flex; gap:10px; margin-bottom:30px;">
+  <a href="https://beacons.ai/narak94" style="display:flex; gap:10px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=narak94&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narak94&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
+
+
 
 <!-- ÍCONES -->
 <div style="display: inline_block; margin-bottom:60px;"><br>
@@ -20,6 +23,13 @@
   <img align="center" alt="Luc-OP" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/chatgpt-logo-brandlogos.net_6btf8edqn.svg">
   <img align="center" alt="Luc-365" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/microsoft-365-copilot-logo-brandlogos.net_78lfgdevk.svg">
 </div>
+
+
+<!-- Espaço -->
+<div style="display: inline_block; margin-bottom:10px;"><br>
+  <img align="center" alt="Luc-edge" height="10" width="470" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/normal.jpg">
+</div>
+
 
 <!-- BADGES -->
 <div>
