@@ -38,7 +38,7 @@
   </a>
 
   <a href="mailto:lucasweber94@outlook.com">
-    <img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/Outlook_logo_and_wordmark_(2012-2019).svg)" width="150" height="40">
+    <img src="[[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/Outlook_logo_and_wordmark_(2012-2019).svg)](https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/outlookmailsend.png)" width="150" height="40">
   </a>
 
   <a href="https://www.linkedin.com/in/lucas-weber-366270108/" target="_blank">
