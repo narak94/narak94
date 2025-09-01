@@ -50,7 +50,7 @@
 
  
 <div style="display: inline_block; margin-bottom:60px;"><br>
- <img align="center" alt="Luc-Python" height="400 " width="400" src="https://imgur.com/a/izvcUSo">
+ <img align="center" alt="Luc-Python" height="400 " width="400" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/VIDEO%201-1.gif">
 </div>
 
 
