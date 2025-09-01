@@ -12,11 +12,11 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luc-" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/88dd0da6765a5b58d684f179df9c4ec2c8d758da/assets/icons/python-original.svg">
-  <img align="center" alt="Luc-Ts" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/88dd0da6765a5b58d684f179df9c4ec2c8d758da/assets/icons/n8n.svg">
-  <img align="center" alt="Luc-React" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/5e8de2177f1d0bbac30db038f23fa0759e4a6123/assets/icons/openai.svg">
-  <img align="center" alt="Luc-HTML" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/5e8de2177f1d0bbac30db038f23fa0759e4a6123/assets/icons/csharp-original.svg">
-  <img align="center" alt="Luc-CSS" height="50" width="50" src="">
+  <img align="center" alt="Luc-Python" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/88dd0da6765a5b58d684f179df9c4ec2c8d758da/assets/icons/python-original.svg">
+  <img align="center" alt="Luc-CS" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/5e8de2177f1d0bbac30db038f23fa0759e4a6123/assets/icons/csharp-original.svg">
+  <img align="center" alt="Luc-N8N" height="50" width="131" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/n8n-logo-brandlogos.net_k6nah3kef.svg">
+  <img align="center" alt="Luc-OP" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/chatgpt-logo-brandlogos.net_6btf8edqn.svg">
+  <img align="center" alt="Luc-365" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/microsoft-365-copilot-logo-brandlogos.net_78lfgdevk.svg">
   <img align="center" alt="Luc-Python" height="50" width="50" src="">
   <img align="center" alt="Luc-Csharp" height="50" width="50" src="">
   <img align="right" alt="Luc-yoda" height="80" src="">
