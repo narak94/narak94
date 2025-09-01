@@ -6,7 +6,7 @@
 - ⚡ Quote: Me de um ponto de Apoio🪑+💻, que automatizarei o mundo. 
 
 <div>
-<a href-"https://beacons.ai/narak94">
-<img height-"180em" src-"https://github-readme-stats.vercel.app/api?username-rafaballerini&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"[>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-rafaballerini&layout=compact&langs_count-16&theme-dracula"/>
+<a href="https://beacons.ai/narak94">
+<img height-"180em" src-"https://github-readme-stats.vercel.app/api?username-narak94&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"[>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-narak94&layout=compact&langs_count-16&theme-dracula"/>
 </div>
