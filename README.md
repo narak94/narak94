@@ -17,11 +17,28 @@
 
 <!-- ÍCONES -->
 <div style="display: inline_block; margin-bottom:60px;"><br>
-  <img align="center" alt="Luc-Python" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/python-original.svg">
-  <img align="center" alt="Luc-CS" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/csharp-original.svg">
-  <img align="center" alt="Luc-N8N" height="50" width="131" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/n8n-logo-brandlogos.net_k6nah3kef.svg">
-  <img align="center" alt="Luc-OP" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/chatgpt-logo-brandlogos.net_6btf8edqn.svg">
-  <img align="center" alt="Luc-365" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/main/assets/icons/microsoft-365-copilot-logo-brandlogos.net_78lfgdevk.svg">
+  <img align="center" alt="Luc-JS" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/javascript-original.svg">
+  <img align="center" alt="Luc-PY" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/python-original.svg">
+  <img align="center" alt="Luc-Cloud2" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/csharp-original.svg"> 
+  <img align="center" alt="Luc-Cloud1" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/googlecloud-original.svg">
+  <img align="center" alt="Luc-Cloud3" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/microsoft-365-copilot-logo-brandlogos.net_78lfgdevk.svg"> 
+  <img align="center" alt="Luc-Cloud4" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/chatgpt-logo-brandlogos.net_6btf8edqn.svg">
+  <img align="center" alt="Luc-Cloud5" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/linuxmint-original.svg">
+  <img align="center" alt="Luc-Cloud6" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/grok-logo-brandlogos.net_16gtvnh8s.svg">
+  <img align="center" alt="Luc-Cloud7" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/google-gemini-2025-logo-brandlogos.net_lphmt7izt.svg">
+
+
+
+ 
+  <img align="center" alt="Luc-N8N" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/pytorch-original-wordmark.svg">
+  <img align="center" alt="Luc-365" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/n8n-logo-brandlogos.net_k6nah3kef.svg">
+  <img align="center" alt="Luc-Cloud" height="50" width="50" src="https://github.com/narak94/narak94/blob/main/Assests/icon/meta-platforms-logo-brandlogos.net_ffvf2t8uj.svg">
+  <img align="center" alt="Luc-Cloud" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/anthropic-logo-brandlogos.net_fde864emp.svg">
+  <img align="center" alt="Luc-Cloud" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/notebooklm-logo-brandlogos.net_vdn1fikzz.svg">
+
+
+
+  
 </div>
 
 
