@@ -55,7 +55,7 @@
   </a>
 
   <a href="mailto:lucasweber94@outlook.com">
-    <img src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/outlookmail.png"150" height="40">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="150" height="40">
   </a>
 
   <a href="https://www.linkedin.com/in/lucas-weber-366270108/" target="_blank">
