@@ -10,3 +10,5 @@
 <img height-"180em" src-"https://github-readme-stats.vercel.app/api?username=narak94&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"[>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narak94&layout=compact&langs_count-16&theme-dracula"/>
 </div>
+
+<img src="https://raw.githubusercontent.com/narak94/narak94/main/Assets/assets/icons/n8n.svg" alt="n8n" width="50" 
