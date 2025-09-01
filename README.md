@@ -11,4 +11,18 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narak94&layout=compact&langs_count-16&theme-dracula"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/narak94/narak94/main/Assets/assets/icons/n8n.svg" alt="n8n" width="50" 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luc-" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/88dd0da6765a5b58d684f179df9c4ec2c8d758da/assets/icons/python-original.svg">
+  <img align="center" alt="Luc-Ts" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/88dd0da6765a5b58d684f179df9c4ec2c8d758da/assets/icons/n8n.svg">
+  <img align="center" alt="Luc-React" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/5e8de2177f1d0bbac30db038f23fa0759e4a6123/assets/icons/openai.svg">
+  <img align="center" alt="Luc-HTML" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/5e8de2177f1d0bbac30db038f23fa0759e4a6123/assets/icons/csharp-original.svg">
+  <img align="center" alt="Luc-CSS" height="50" width="50" src="">
+  <img align="center" alt="Luc-Python" height="50" width="50" src="">
+  <img align="center" alt="Luc-Csharp" height="50" width="50" src="">
+  <img align="right" alt="Luc-yoda" height="80" src="">
+</div>
+
+
+
+
+
