@@ -15,48 +15,11 @@
 
 
 
-<!-- ÍCONES -->
-<div style="display: inline_block; margin-bottom:60px;"><br>
-  <img align="center" alt="Luc-JS" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/javascript-original.svg">
-  <img align="center" alt="Luc-PY" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/python-original.svg">
-  <img align="center" alt="Luc-Cloud2" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/csharp-original.svg"> 
-  <img align="center" alt="Luc-Cloud1" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/googlecloud-original.svg">
-  <img align="center" alt="Luc-Cloud3" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/microsoft-365-copilot-logo-brandlogos.net_78lfgdevk.svg"> 
+
+
   
  
-  <img align="center" alt="Luc-N8N" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/pytorch-original-wordmark.svg">
-  <img align="center" alt="Luc-365" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/n8n-logo-brandlogos.net_k6nah3kef.svg">
-  <img align="center" alt="Luc-Cloud" height="50" width="50" src="https://github.com/narak94/narak94/blob/main/Assests/icon/meta-platforms-logo-brandlogos.net_ffvf2t8uj.svg">
-  <img align="center" alt="Luc-Cloud" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/anthropic-logo-brandlogos.net_fde864emp.svg">
-  <img align="center" alt="Luc-Cloud" height="50" width="50" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/notebooklm-logo-brandlogos.net_vdn1fikzz.svg">
-
-
-
   
-</div>
-
-
-<!-- Espaço -->
-<div style="display: inline_block; margin-bottom:10px;"><br>
-  <img align="center" alt="Luc-edge" height="10" width="470" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/normal.jpg">
-</div>
-
-
-<!-- BADGES -->
-<div>
-  <a href="https://discord.gg/akinarak" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="150" height="40">
-  </a>
-
-  <a href="mailto:lucasweber94@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width="150" height="40">
-  </a>
-
-  <a href="https://www.linkedin.com/in/lucas-weber-366270108/" target="_blank">
-    <img src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/assets/icons/VIDEO%201-1.gif" width="150" height="40">
-  </a>
-</div>
-
 
 
  
