@@ -15,11 +15,20 @@
 
 
 
-
-
+<!-- ÍCONES -->
+<div style="display: inline_block; margin-bottom:60px;"><br>
+  <img align="center" alt="Luc-JS" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/javascript-original.svg">
+  <img align="center" alt="Luc-PY" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/python-original.svg">
+  <img align="center" alt="Luc-Cloud2" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/csharp-original.svg"> 
+  <img align="center" alt="Luc-Cloud1" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/googlecloud-original.svg">
+  <img align="center" alt="Luc-Cloud3" height="60" width="60" src="https://raw.githubusercontent.com/narak94/narak94/refs/heads/main/Assests/icon/microsoft-365-copilot-logo-brandlogos.net_78lfgdevk.svg"> 
   
  
   
+</div>
+
+
+
 
 
  
