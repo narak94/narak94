@@ -14,7 +14,7 @@
 
   
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Lucas+Flores+%F0%9F%91%8B;Full-Stack+Developer+%7C+Game+Developer;Python+%7C+JavaScript+%7C+Godot+%7C+Pygame" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Lucas+W+%F0%9F%91%8B;Full-Stack+Developer+%7C+Python <dev>;,<Game <dev> Enthusiast +%7C[JS] <dev>" alt="Typing SVG" />
 </div>
 
 ---
