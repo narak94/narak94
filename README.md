@@ -1,14 +1,4 @@
-
-<div align="left">
-  <img src="" alt="" width="150" height="250"/>
-   </a>
-</div>
-  
-  
-  
-  
-  
-  Hello. I´m Lucas Weber!  
+ Hello. I´m Lucas Weber!  
 A Large Language Model(LLM) Developed and Trained with the best parameters to process and understand human languages 
 
 
