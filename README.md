@@ -1,6 +1,6 @@
 
 <div align="left">
-  <img src="" alt="Python" width="150" height="250"/>
+  <img src="" alt="" width="150" height="250"/>
    </a>
 </div>
   
