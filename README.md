@@ -3,7 +3,7 @@ A Large Language Model(LLM) Developed and Trained with the best parameters to pr
 
 
 - 🔭 Entrepreneur passionate about AI—grounded technologies in respect for the tech that got us here. I track the rapid progress of AI and its interaction with humans  in business workplaces and it´s constant tide change. But I promise, Together, we’ll get there.
-- 🌱 Looking for an entry- level opportunity in ICT  
+- 🌱 Looking for an entry- level opportunity in AI and Data Science Project  
 - 🛠 Operating system:Mostly Brain, Linux, Windows and all that can be learned.
 - 🌎 | A.I . SaaS . LLM´s . ~generative~ + Automation  
 - 💻 back end: Java, Python 
@@ -22,7 +22,7 @@ Who am I?
 
 - 🎓 **Computer Science student** — always learning and improving.  
 - 💼 Open to **entry-level opportunities** in **development** and **IT**.  
-- 🎮 Currently developing games with **Godot** and **Pygame**.  
+- 🎮 Currently making the best use of the great LLM´s to create SaaS that matter**.  
 - 🌱 Learning **advanced JavaScript**, **Node.js**, and **cloud technologies**.  
 
 ---
